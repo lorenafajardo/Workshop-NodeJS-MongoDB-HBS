@@ -1,2 +1,4 @@
 # Workshop-NodeJS-MongoDB-HBS
-Juego de dados realizado con NodeJs express, base de datos mongoDB y vistas con HBS 
+### Elaborado por: Lorena Fajardo
+
+Este repositorio contiene el desarrollo de una API uilizando NodeJs express, cuyos archivos respectivos se encuentran en la carpeta Workshop-week4. La api se conecta a una base datos de MongoDB, en la cual se almacenan los jugadores, marcación, ganadores y estado del juego. La conexión con la base de datos y otras configuraciones e importaciones necesarias para el funcionamiento de la API se encuentra en el archivo index.js, ubicado dentro de la carpeta Workshop-week4. Asimismo, esta carpeta contiene otras dos subcarpetas, una llamada backennd, donde se encuentran los archivos que contienen los modelos, funciones, rutas y demas archivos que correponden a la parte logica de la API. La otra carpeta se denomina Views y contiene la interfaz grafica, cuyas paginas se realizaron mediante la herramienta handlebars que permite generar HTML a partir de objetos con datos en formato JSON.      
